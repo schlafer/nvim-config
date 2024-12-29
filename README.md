@@ -1,2 +1,2 @@
-# nvim-config
-personal neovim config  
+# 💤 Personal LazyVim Config
+nvim with lazy plugins goes brrr
